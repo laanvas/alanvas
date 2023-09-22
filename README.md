@@ -1,1 +1,5 @@
 - 👋 Hi, I’m @alanvas
+- Technologies:
+- SQL
+- PL/SQL
+- Python
